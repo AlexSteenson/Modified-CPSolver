@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="itc2007:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7ae7987-a5ee-418b-9f9c-9969163e6d74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.number" beforeDir="false" afterPath="$PROJECT_DIR$/build.number" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp01.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp01.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp02.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp02.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp03.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp03.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp04.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp04.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp05.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp05.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp06.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp06.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp07.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp07.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp08.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp08.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp09.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp09.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp10.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp10.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp11.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp11.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp12.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp12.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp13.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp13.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp14.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp14.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp15.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp15.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp16.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp16.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp17.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp17.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp18.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp18.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp19.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp19.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp20.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp20.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/comp21.ctt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/comp21.ctt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ctt/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ctt/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set1.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set1.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set2.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set2.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set3.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set3.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set4.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set4.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set5.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set5.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set6.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set6.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set7.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set7.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/exam_comp_set8.exam" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/exam_comp_set8.exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/exam/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/exam/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-1.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-1.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-10.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-10.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-11.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-11.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-12.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-12.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-13.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-13.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-14.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-14.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-15.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-15.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-16.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-16.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-2.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-2.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-3.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-3.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-4.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-4.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-5.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-5.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-6.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-6.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-7.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-7.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-8.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-8.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/comp-2007-2-9.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/comp-2007-2-9.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tim/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/tim/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition01.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition01.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition02.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition02.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition03.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition03.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition04.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition04.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition05.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition05.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition06.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition06.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition07.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition07.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition08.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition08.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition09.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition09.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition10.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition10.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition11.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition11.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition12.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition12.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition13.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition13.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition14.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition14.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition15.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition15.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition16.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition16.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition17.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition17.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition18.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition18.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition19.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition19.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/competition20.tim" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/competition20.tim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ttcomp02/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/ttcomp02/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/benchmark/Benchmark_MacOSX_Intel" beforeDir="false" afterPath="$PROJECT_DIR$/doc/benchmark/Benchmark_MacOSX_Intel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/benchmark/Benchmark_Win32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/doc/benchmark/Benchmark_Win32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/benchmark/benchmarkinput.ttp" beforeDir="false" afterPath="$PROJECT_DIR$/doc/benchmark/benchmarkinput.ttp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/description/ctt.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/description/ctt.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/description/exam.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/description/exam.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/description/tim.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/description/tim.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/itc2007.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/itc2007.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doc/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/MacOsX-Intell/ctt-validator" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/MacOsX-Intell/ctt-validator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/MacOsX-Intell/tim-validator" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/MacOsX-Intell/tim-validator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/MacOsX-Intell/ttcomp02-validator" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/MacOsX-Intell/ttcomp02-validator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/Win32/ctt-validator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/Win32/ctt-validator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/Win32/tim-validator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/Win32/tim-validator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/Win32/ttcomp02-validator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/Win32/ttcomp02-validator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/src/ctt-validator.cc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/src/ctt-validator.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/src/tim-validator.cc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/src/tim-validator.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/validate/src/ttcomp02-validator.c" beforeDir="false" afterPath="$PROJECT_DIR$/doc/validate/src/ttcomp02-validator.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lgpl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lgpl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/cpsolver-all-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cpsolver-all-1.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dom4j-1.6.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-1.2.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/log4j-1.2.8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ctt.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/ctt.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/exam.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcCsvStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcCsvStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttCurricula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttCurricula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttLecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttLecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttPlacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttPlacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttCourseMinDaysMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttCourseMinDaysMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttCourseRoomChangeMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttCourseRoomChangeMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttCurriculumCompactnessMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttCurriculumCompactnessMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttRoomMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttRoomMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttSwapMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttSwapMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttTimeMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttTimeMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/heuristics/ExBinaryViolationOscillation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/heuristics/ExBinaryViolationOscillation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/heuristics/ExDirectConflictOscillation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/heuristics/ExDirectConflictOscillation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/heuristics/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/heuristics/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExDifferentPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExDifferentPeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExPeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExPlacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExPlacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExPrecedence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExPrecedence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExSamePeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExSamePeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExStudentHard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExStudentHard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExStudentSoft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExStudentSoft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExBestMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExBestMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExNotConflictingMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExNotConflictingMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExRoomMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExRoomMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExRoomSwapMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExRoomSwapMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExSwapMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExSwapMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExTimeMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExTimeMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExTimeSwapMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/ExTimeSwapMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/neighbours/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcNeighbourSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcNeighbourSelectionSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcParameterWeightOscillation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcParameterWeightOscillation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcUnassignedVariableSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcUnassignedVariableSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcLazyNeighbour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcLazyNeighbour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcLazySwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcLazySwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcSimpleNeighbour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcSimpleNeighbour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcNotConflictingMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcNotConflictingMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcRandomMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcRandomMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcSwapMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcSwapMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcSystematicMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/ItcSystematicMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/selection/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcGreatDeluge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcGreatDelugeSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcHillClimber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcHillClimberSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcSimulatedAnnealing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcSimulatedAnnealingSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcTabuSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcTabuSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcCalibra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcCalibra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcRemoteIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcRemoteIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcTestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcTestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcTestRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcTestRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcTestServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcTestServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/heuristics/TimNoRoomWeightOscillation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/heuristics/TimNoRoomWeightOscillation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/heuristics/TimPrecedenceWeightOscillation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/heuristics/TimPrecedenceWeightOscillation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/heuristics/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/heuristics/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TTComp02Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TTComp02Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimPrecedence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimPrecedence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimPrecedenceMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimPrecedenceMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimRandomMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimRandomMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimRoomMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimRoomMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimSwapMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimSwapMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimTimeMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimTimeMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tim.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/tim.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ttcomp02.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/ttcomp02.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/itc2007$ItcTest.coverage" NAME="ItcTest Coverage Results" MODIFIED="1554127040574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>net.sf.cpsolver.itc.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="841856009">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="119" />
+          <entry key="html" value="2" />
+          <entry key="java" value="266" />
+          <entry key="out" value="5" />
+          <entry key="properties" value="50" />
+          <entry key="txt" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="119" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="266" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Properties" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="47" />
+          <entry key="dummy" value="13" />
+          <entry key="java" value="11402" />
+          <entry key="properties" value="315" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="47" />
+          <entry key="JAVA" value="11402" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="315" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1591565370">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5001" />
+          <entry key="properties" value="256" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5001" />
+          <entry key="Properties" value="256" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="21" />
+          <entry key="md" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="21" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutionValues.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exam.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tim.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ctt.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcGreatDelugeSeq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="300" column="43" selection-start-line="300" selection-start-column="43" selection-end-line="300" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hcMode</find>
+      <find>HillClimberSelection</find>
+      <find>cool</find>
+      <find>incIter</find>
+      <find>laz</find>
+      <find>seq</find>
+      <find>inc</find>
+      <find>@</find>
+      <find>accept</find>
+      <find>accept(</find>
+      <find>iBou</find>
+      <find>previous.ad</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/NeighbourSelector.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/LazyGroupAccept.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttRoomMove.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcHillClimber.java" />
+        <option value="$PROJECT_DIR$/src/ttcomp02.properties" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/ifs/solution/Solution.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/ifs/solver/Solver.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/RandomRestart.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcNeighbourSelection.java" />
+        <option value="$PROJECT_DIR$/contValues.txt" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcTest.java" />
+        <option value="$PROJECT_DIR$/src/tim.properties" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/ParamTune.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcNeighbourSelectionSeq.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/GroupAccept.java" />
+        <option value="$PROJECT_DIR$/solutionValues.txt" />
+        <option value="$PROJECT_DIR$/src/ctt.properties" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcHillClimberSeq.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/HeuristicSequence.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcGreatDelugeSeq.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcSimulatedAnnealingSeq.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/SelectNeighbour.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcGreatDeluge.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcSimulatedAnnealing.java" />
+        <option value="$PROJECT_DIR$/src/exam.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-70" />
+    <option name="y" value="98" />
+    <option name="width" value="1535" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itc2007" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpsolver-itc2007" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itc2007" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpsolver-itc2007" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itc2007" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpsolver-itc2007" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpsolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itc2007" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpsolver-itc2007" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpsolver" type="462c0819:PsiDirectoryNode" />
+              <item name="itc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itc2007" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpsolver-itc2007" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpsolver" type="462c0819:PsiDirectoryNode" />
+              <item name="itc" type="462c0819:PsiDirectoryNode" />
+              <item name="heuristics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itc2007" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpsolver-itc2007" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpsolver" type="462c0819:PsiDirectoryNode" />
+              <item name="itc" type="462c0819:PsiDirectoryNode" />
+              <item name="heuristics" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar:///Users/alexsteenson/4th year/Dissertation/cpsolver 2007/cpsolver-itc2007/lib/cpsolver-all-1.2.jar!/net/sf/cpsolver/ifs/heuristics/NeighbourSelection.class" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554926032135" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ItcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.sf.cpsolver.itc.ItcTest" />
+      <module name="itc2007" />
+      <option name="PROGRAM_PARAMETERS" value="exam data/exam/exam_comp_set1.exam exam_out/exam_comp_set5.sln" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.sf.cpsolver.itc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ItcTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7ae7987-a5ee-418b-9f9c-9969163e6d74" name="Default Changelist" comment="" />
+      <created>1543428393616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543428393616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17310444" />
+      <window_info id="Structure" order="1" weight="0.24964234" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39803708" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297619" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/cpsolver-all-1.2.jar!/net/sf/cpsolver/ifs/solver/Solver.class</url>
+          <line>385</line>
+          <properties />
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/model/CttCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/ctt/neighbours/CttSwapMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimPrecedence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/neighbours/TimPrecedenceMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/value.txt" />
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ref/Finalizer.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/test/ItcTestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/cpsolver-all-1.2.jar!/net/sf/cpsolver/ifs/heuristics/NeighbourSelection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/cpsolver-all-1.2.jar!/net/sf/cpsolver/ifs/model/Model.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11956">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/cpsolver-all-1.2.jar!/net/sf/cpsolver/ifs/solution/SolutionComparator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/cpsolver-all-1.2.jar!/net/sf/cpsolver/ifs/solution/Solution.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/NeighbourSelector.java" />
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/heuristics/TimNoRoomWeightOscillation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/tim/model/TimEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcParameterWeightOscillation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#4916#4917#0" />
+            <element signature="e#4959#4960#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExPlacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="636" selection-start-line="636" selection-end-line="636" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/exam/model/ExExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcLazySwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/neighbour/ItcLazyNeighbour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcHillClimber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="158" column="57" selection-end-line="300" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/cpsolver-all-1.2.jar!/net/sf/cpsolver/ifs/solver/Solver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcNeighbourSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="160" column="20" lean-forward="true" selection-start-line="160" selection-start-column="20" selection-end-line="160" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/ifs/solution/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contValues.txt">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="99243" column="5" selection-start-line="99243" selection-start-column="5" selection-end-line="99243" selection-end-column="5" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-1686661" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/ifs/solver/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="344" selection-start-line="344" selection-end-line="344" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ttcomp02.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/ItcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1208">
+          <caret line="283" column="89" selection-start-line="283" selection-start-column="89" selection-end-line="283" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/ParamTune.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/ItcNeighbourSelectionSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="157" column="18" selection-start-line="157" selection-start-column="18" selection-end-line="157" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/GroupAccept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="168" column="54" selection-start-line="168" selection-start-column="54" selection-end-line="168" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/RandomRestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1949">
+          <caret line="146" column="22" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/HeuristicSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcSimulatedAnnealingSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="360" column="43" selection-start-line="360" selection-start-column="43" selection-end-line="360" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcHillClimberSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2024">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/SelectNeighbour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcGreatDeluge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="275" column="45" selection-start-line="275" selection-start-column="45" selection-end-line="275" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcSimulatedAnnealing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="328" column="44" selection-start-line="328" selection-start-column="44" selection-end-line="328" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/cpsolver/itc/heuristics/search/ItcGreatDelugeSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="300" column="43" selection-start-line="300" selection-start-column="43" selection-end-line="300" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutionValues.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tim.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctt.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>itc2007:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>itc2007</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
